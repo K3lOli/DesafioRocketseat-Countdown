@@ -36,6 +36,10 @@
         gap: 1vw;
     }
 
+    h2 {
+        margin-top: 3vh;
+    }
+
     div {
         display: flex;
         justify-content: center;

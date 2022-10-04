@@ -5,7 +5,7 @@ window.onload = function () {
     const appendSegundos = document.getElementById('segundos')
 
     var dias = 01;
-    var horas = 59;
+    var horas = 23;
     var minutos = 59;
     var segundos = 60;
 
